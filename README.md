@@ -1,6 +1,6 @@
 ### Olá, eu sou o Nathan Olinto 👋
 
-Sou apaixonado por tecnologia, principalmente no frontend e em automação, e as facilidades que elas podem proporcionar.
+<div>Sou apaixonado por tecnologia, principalmente no frontend e em automação, e as facilidades que elas podem proporcionar.</div>
 Tenho como objetivo de vida transformar minhas filhas em pessoas incríveis.
 
 <!--
