@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, eu sou o Nathan Olinto 👋
+
+Sou apaixonado por tecnologia, principalmente no frontend e em automação, e as facilidades que elas podem proporcionar.
+Tenho como objetivo de vida transformar minhas filhas em pessoas incríveis.
 
 <!--
 **nathanolinto/nathanolinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
